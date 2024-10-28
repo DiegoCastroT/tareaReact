@@ -32,7 +32,7 @@ const App = () => {
       <div>
         {coches.map((coche, index) => (
           <Coche
-            key={index} 
+            key={index}
             matricula={coche.Matricula}
             marca={coche.Marca}
             modelo={coche.Modelo}

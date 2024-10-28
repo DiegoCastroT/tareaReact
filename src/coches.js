@@ -4,7 +4,7 @@ import React from 'react';
 const Coche = ({ matricula, marca, modelo, tipo }) => {
   return (
     <div className="StyledTextComponent">
-      {matricula} {modelo} {marca} {tipo}
+      {matricula} - {modelo} {marca} {tipo}
     </div>
   );
 };
