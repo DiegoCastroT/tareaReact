@@ -1,0 +1,8 @@
+.StyledTextComponent {
+    font-family: "Inter", sans-serif;
+    padding-left: .5rem;
+    background-color: #369;
+    color: #fff;
+    margin: 0.5rem 0; /* Agrega un margen para separar los elementos */
+  }
+  
